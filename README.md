@@ -1,1 +1,2 @@
 # odin-recipes
+make a project, recipe website that links to other recipes. do the objective, represent html tools that applies to the project such as: basic elements (ordered list, images, links and attributes) continuance for this project is css. Gain skills after such as getting to use all html tools together to make a website.  
