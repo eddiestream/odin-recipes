@@ -1,0 +1,15 @@
+#title{
+    background-color:rgba(211, 179, 62, 0.74); 
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+    color: white; text-align:center; font-size: 500%;}
+.sub{
+    background-color:orange; 
+    font-family: Impact, 'Arial Narrow Bold', sans-serif; 
+    color: white;}
+p, .list{
+    font-family: 'Times New Roman', Times, serif; 
+    background-color: rgba(185, 191, 196, 0.322); 
+    color:cadetblue; 
+    font-weight: bold;
+}
+#p{ padding-left: 25px;}
